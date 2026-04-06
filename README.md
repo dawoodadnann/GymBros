@@ -1,4 +1,4 @@
-#GymBros - The Ultimate Gym Management & Workout Tracking App
+# GymBros - The Ultimate Gym Management & Workout Tracking App
 
 ## Description
 
@@ -58,6 +58,6 @@ Why GymBros?
 Solves real pain points: spreadsheets, WhatsApp chaos
 Shows full-stack skills: .NET API, React frontend, EF Core database
 Fun, memorable, and portfolio-worthy
-
+```
 
 GymBros isn’t just another project — it’s the one recruiters will remember after scrolling through 30 GitHub repos.
