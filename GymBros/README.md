@@ -44,7 +44,7 @@ Built with **modern infrastructure**, GymBros makes managing and enjoying your g
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/GymBros.git
+git clone https://github.com/dawoodadnann/GymBros.git
 
 ## Getting Started
 
