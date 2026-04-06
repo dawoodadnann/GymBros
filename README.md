@@ -53,11 +53,12 @@ git clone https://github.com/dawoodadnann/GymBros.git
 cd GymBros
 dotnet restore
 dotnet run
+```
 
-Why GymBros?
+### Why GymBros?
 Solves real pain points: spreadsheets, WhatsApp chaos
 Shows full-stack skills: .NET API, React frontend, EF Core database
 Fun, memorable, and portfolio-worthy
-```
+
 
 GymBros isn’t just another project — it’s the one recruiters will remember after scrolling through 30 GitHub repos.
